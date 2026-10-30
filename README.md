@@ -8,4 +8,4 @@ I'm an Information Technology student at UNIOSUN. I build websites with Python, 
 Python · Flask · HTML · CSS · JavaScript
 
 ## Get in touch
-📩 ayorindeayomade@gail.com
+📩 ayorindeayomade@gmail.com
