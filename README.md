@@ -2,7 +2,7 @@
 
 I'm an Information Technology student at UNIOSUN. I build websites with Python, Flask, HTML, CSS and JavaScript.
 
-🌐 **My portfolio:** https://portfolio-fyez.vercel.app
+🌐 **My portfolio:** https://ayorindeayomade.vercel.app/
 
 ## What I work with
 Python · Flask · HTML · CSS · JavaScript
